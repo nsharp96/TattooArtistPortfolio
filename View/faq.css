@@ -1,0 +1,38 @@
+
+.question 
+{
+    margin-top: 100px;
+}
+
+.question-container
+{
+    padding-top: 80px;
+    background-color: rgb(39, 39, 39);
+    padding-bottom: 20px;
+}
+
+.question-container > h1
+{
+    text-align: center;
+    letter-spacing: 0.5rem;
+    color: white;
+}
+
+.question > h1
+{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.question
+{
+    background-color: white;
+    margin: 2rem;
+    border-radius: 12px;
+    padding: 1.5rem 2rem 1.5rem 2rem;
+}
+
+p{
+    font-size: 15px;
+    letter-spacing: 0.1rem;
+}

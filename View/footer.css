@@ -1,0 +1,36 @@
+footer 
+{
+    padding: 2rem;
+    text-align: center;
+}
+
+.insta 
+{
+    color: black;
+    font-size: 50px;
+}
+
+.insta:hover {
+    color: orange;
+}
+
+.address_container 
+{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+    letter-spacing: 0.25rem;
+}
+
+.add h1 
+{
+    margin-bottom: 1rem;
+}
+
+footer h2 
+{
+    font-size: 0.75rem;
+    letter-spacing: 0.5rem;
+}
